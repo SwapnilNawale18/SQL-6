@@ -158,4 +158,4 @@ begin
 exec prcInsert @sampleid=@sid, @samplename =@sname
 end
 
-exec prcCall 3,'Sample3' 
+exec prcCall 3,'Sample3'      
